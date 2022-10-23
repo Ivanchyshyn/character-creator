@@ -10,13 +10,11 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
-  overflow-x: auto;
-  white-space: nowrap;
 }
 
 @media (max-width: 900px) {
   .controlPane {
-    width: 300px
+    width: 310px
   }
 }
 
